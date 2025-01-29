@@ -8,3 +8,6 @@ requests
 tgcrypto
 youtube-dl
 olefile
+yt-dlp
+flask
+gunicorn
