@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     # get a token from https://chatbase.com
-    CHAT_BASE_TOKEN = os.environ.get("CHAT_BASE_TOKEN", "")
+    CHAT_BASE_TOKEN = os.environ.get("CHAT_BASE_TOKEN", "zut_JRPR7wGKNFf2mdHi3yXykL-pj6m9jKwZ0GW3IQ")
     # get a token from @BotFather
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
     # The Telegram API things
